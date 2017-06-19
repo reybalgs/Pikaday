@@ -1020,11 +1020,11 @@
 
         getStartRange: function() {
             return this._o.startRange;
-        }
+        },
 
         getEndRange: function() {
             return this._o.endRange;
-        }
+        },
 
         setStartRange: function(value)
         {
